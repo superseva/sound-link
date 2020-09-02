@@ -12,7 +12,7 @@
   "styles": ["style.css"],
   "packs": [],
   "languages": [],
-	"url": "",
-    "manifest": "",
-    "download": ""
+	"url": "https://github.com/superseva/sound-link",
+    "manifest": "https://raw.githubusercontent.com/superseva/sound-link/master/module.json",
+    "download": "https://github.com/superseva/sound-link/archive/master.zip"
 }
