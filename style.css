@@ -1,10 +1,13 @@
 a.sound_link {
-  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 6px 12px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 14px;
+  background: #fffad3;
+  padding: 1px 4px;
+  border: 1px solid #4b4a44;
+  border-radius: 2px;
+  white-space: nowrap;
+  word-break: break-all;
 }
+.sound_link:before {
+    content: '\f144';
+    font-family: 'Font Awesome 5 Free';
+    padding-right: 4px;
+  }
