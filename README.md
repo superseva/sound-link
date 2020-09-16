@@ -5,6 +5,9 @@ It looks like this:
 
 ```<a class="sound_link" data-playlist="PLAYLIST NAME" data-sound="SOUND NAME">Sound Name</a>```
 
-It does require **The Furnace** module with **Advanced Macros *ON*** since it relays on its **"toggle-playlist-sound"** macro.
+**IMPORTANT**
+
+This does require **The Furnace** module installed with **Advanced Macros *ON***.
+You also need to import **"toggle-playlist-sound"** macro from the *Furnace Macro Compendium* in to your game since this will be called from the sound link.
 
 ![Example](https://raw.githubusercontent.com/superseva/sound-link/master/sound-link-example.jpg)
