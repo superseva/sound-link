@@ -11,6 +11,11 @@
   "scripts": [],
   "styles": ["style.css"],
   "packs": [],
+	"dependencies": [
+	{
+	  "name": "furnace",
+	  "manifest": "https://raw.githubusercontent.com/kakaroto/fvtt-module-furnace/master/module.json"
+	}],
   "languages": [],
 	"url": "https://github.com/superseva/sound-link",
     "manifest": "https://raw.githubusercontent.com/superseva/sound-link/master/module.json",
