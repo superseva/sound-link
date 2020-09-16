@@ -7,4 +7,4 @@ it looks like this:
 
 It does require **The Furnace** module with **Advanced Macros *ON*** since it relays on its **"toggle-playlist-sound"** macro.
 
-![Example](sound-link-example.png)
+![Example](/sound-link-example.png)
