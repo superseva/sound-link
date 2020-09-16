@@ -1,5 +1,5 @@
 // LINK EXAMPLE
-// <a class="sound_link" data-playlist="Music" data-sound="music">My Sound</a>
+// <a class="sound_link" data-playlist="Music" data-sound="Song">My Song From the Music Playlist</a>
 
 Hooks.on("renderItemSheet", (app, html, options) => {
             searchSoundLinks(html);
