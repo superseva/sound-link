@@ -6,3 +6,5 @@ it looks like this:
 ```<a class="sound_link" data-playlist="PLAYLIST NAME" data-sound="SOUND NAME">Sound Name</a>```
 
 It does require **The Furnace** module with **Advanced Macros *ON*** since it relays on its **"toggle-playlist-sound"** macro.
+
+![Example](sound-link-example.png)
