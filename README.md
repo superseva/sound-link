@@ -1,5 +1,5 @@
 # sound-link
-Ability to add Text Button in your Journals and Items text areas that will toggle a sound from your Sound Library.
+Ability to add sound button in your journals and items text areas that will toggle a sound from your Sound Library.
 The link needs to be added in the HTML part of the text editor. 
 It looks like this:
 
