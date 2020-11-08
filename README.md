@@ -14,6 +14,7 @@ You also need to import **"toggle-playlist-sound"** macro from the *Furnace Macr
 ![Example](https://raw.githubusercontent.com/superseva/sound-link/master/sound-link-example.jpg)
 
 Thanks to **brunocalado** for writing this macro that helps in generating the link text so you can easily paste it inside the journal.
+[https://raw.githubusercontent.com/brunocalado/mestre-digital/master/Foundry%20VTT/Macros/Ferramentas/Sound%20Link%20Builder.js](https://raw.githubusercontent.com/brunocalado/mestre-digital/master/Foundry%20VTT/Macros/Ferramentas/Sound%20Link%20Builder.js)
 
 ```
 /* Sound Link Builder v1.0
