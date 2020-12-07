@@ -12,6 +12,7 @@ function searchSoundLinks (html){
     html.find('.sound_link').click((ev) => {
                     let element = ev.currentTarget;        
 					let chatContent = `{{macro "toggle-playlist-sound" "` + element.dataset.playlist + `" "` +  element.dataset.sound + `"}}`;
+	    				console.log(chatContent);
 	    				ChatMessage.create({content : chatContent});
             });
 }
