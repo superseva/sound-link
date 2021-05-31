@@ -4,7 +4,7 @@
   "description": "Creates a Sound Button by adding a link in the HTML part of the text editor that toggles a sound when clicked.",
   "version": "0.0.4",
   "minimumCoreVersion" : "0.6.0",
-  "compatibleCoreVersion" : "0.6.6",
+  "compatibleCoreVersion" : "0.8.6",
   "author": "HappySteve",
   "esmodules": [],
   "scripts": ["sound-link.js"],
