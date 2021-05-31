@@ -5,9 +5,9 @@ It looks like this:
 
 ```<a class="sound_link" data-playlist="PLAYLIST NAME" data-sound="SOUND NAME">Sound Name</a>```
 
-**EXTRA**
-
 ![Example](https://raw.githubusercontent.com/superseva/sound-link/master/sound-link-example.jpg)
+
+**EXTRA**
 
 Thanks to **brunocalado** for writing this macro that helps in generating the link text so you can easily paste it inside the journal.
 
