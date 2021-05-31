@@ -7,10 +7,6 @@ It looks like this:
 
 **IMPORTANT**
 
-This does require **The Furnace** module installed with **Advanced Macros *ON***.
-
-You also need to import **"toggle-playlist-sound"** macro from the *Furnace Macro Compendium* in to your game since this will be called from the sound link.
-
 ![Example](https://raw.githubusercontent.com/superseva/sound-link/master/sound-link-example.jpg)
 
 Thanks to **brunocalado** for writing this macro that helps in generating the link text so you can easily paste it inside the journal.
