@@ -1,22 +1,17 @@
 {
   "name": "sound-link",
   "title": "Sound Link",
-  "description": "Creates a Sound Button by adding a link in the HTML part of the text editor that toggles a sound when clicked.",
-  "version": "0.0.4",
-  "minimumCoreVersion" : "0.6.0",
+  "description": "Creates a Sound Button by adding a link in the HTML part of the text editor that plays a sound wehn clicked",
+  "version": "0.0.5",
+  "minimumCoreVersion" : "0.8.6",
   "compatibleCoreVersion" : "0.8.6",
   "author": "HappySteve",
   "esmodules": [],
   "scripts": ["sound-link.js"],
   "styles": ["style.css"],
   "packs": [],
-	"dependencies": [
-	{
-	  "name": "furnace",
-	  "manifest": "https://raw.githubusercontent.com/kakaroto/fvtt-module-furnace/master/module.json"
-	}],
   "languages": [],
 	"url": "https://github.com/superseva/sound-link",
   "manifest": "https://raw.githubusercontent.com/superseva/sound-link/master/module.json",
-   "download": "https://github.com/superseva/sound-link/archive/master.zip"
+  "download": "https://github.com/superseva/sound-link/archive/master.zip"
 }
