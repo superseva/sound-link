@@ -75,7 +75,7 @@ class HTMLEnricherSound {
     }
 }
 
-Hooks.on('ready', () => {
+Hooks.on('init', () => {
     HTMLEnricherSound.patchEnrich();
 })
 
