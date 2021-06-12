@@ -77,37 +77,13 @@ class HTMLEnricherSound {
 
 Hooks.on('init', () => {
     HTMLEnricherSound.patchEnrich();
-})
-
+});
 
 
 Hooks.on("renderItemSheet", (app, html, options) => {
-    //searchSoundLinks(html);
     HTMLEnricherSound.bindRichTextLinks(html);
 });
 
 Hooks.on("renderJournalSheet", (app, html, options) => {
-    //searchSoundLinks(html);
     HTMLEnricherSound.bindRichTextLinks(html);
 });
-
-
-/*
-function searchSoundLinks(html) {
-    html.find(".sound_link").click((ev) => {
-        let element = ev.currentTarget;
-        let startsWith = '';
-        let playlistName = element.dataset.playlist;
-        let soundName = element.dataset.sound;
-
-        const playlist = game.playlists.contents.find(p => startsWith ? p.name.startsWith(playlistName) : p.name === playlistName);
-        if (!playlist)
-            return;
-        const sound = playlist.sounds.find(s => startsWith ? s.name.startsWith(soundName) : s.name === soundName);
-
-        if (sound)
-            playlist.updateEmbeddedDocuments("PlaylistSound", [{ _id: sound.id, playing: !sound.playing }]);
-
-    });
-}
-*/
