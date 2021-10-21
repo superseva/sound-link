@@ -1,17 +1,21 @@
 {
   "name": "sound-link",
   "title": "Sound Link",
-  "description": "Creates a Sound Button by adding a link in the HTML part of the text editor that plays a sound wehn clicked",
-  "version": "0.1.0",
-  "minimumCoreVersion" : "0.8.2",
-  "compatibleCoreVersion" : "0.8.6",
+  "description": "Creates a Sound Button by adding a link in a journal that plays a sound when clicked. Look at README for more info",
+  "version": "0.1.1",
+  "minimumCoreVersion": "0.8.2",
+  "compatibleCoreVersion": "0.8.9",
   "author": "HappySteve",
   "esmodules": [],
-  "scripts": ["sound-link.js"],
-  "styles": ["style.css"],
+  "scripts": [
+    "sound-link.js"
+  ],
+  "styles": [
+    "style.css"
+  ],
   "packs": [],
   "languages": [],
-	"url": "https://github.com/superseva/sound-link",
+  "url": "https://github.com/superseva/sound-link",
   "manifest": "https://raw.githubusercontent.com/superseva/sound-link/master/module.json",
   "download": "https://github.com/superseva/sound-link/archive/master.zip"
 }
